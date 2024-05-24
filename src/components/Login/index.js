@@ -8,8 +8,8 @@ import './index.css'
 
 class Login extends Component {
   state = {
-    errorMsg: '',
-    userName: '',
+    errorMsg: 'rahul',
+    userName: 'rahul@2021',
     passWord: '',
     showError: false,
   }
